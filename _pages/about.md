@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Sage Kaplan-Goland's home on the web! Hi!
+This is Sage Kaplan-Goland's home on the web!
 
