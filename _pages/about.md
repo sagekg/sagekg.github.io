@@ -10,4 +10,6 @@ redirect_from:
 
 I'm a physics major at Grinnell College and I'm interested in the overlaps between engineering and social justice. 
 
-Currently I'm an intern at Stanford University in the [Lentink Lab](http://lentinklab.stanford.edu/welcome/biological_inspiration), where I'm working on gliding robots based on birds.
+Currently I'm an intern at Stanford University in the [Lentink Lab](http://lentinklab.stanford.edu/welcome/biological_inspiration), where I'm working on gliding robots based on birds. In the summer of 2018 I also worked at Oregon State University, working on improving consistency of robotic navigation in a simulated Ebola Treatment Unit.
+
+
