@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
-======
+Education
+---
 * B.A. in Physics, Grinnell College
 
-#Work Experience
-======
+Work Experience
+---
 * Summer 2019: Student Researcher, Stanford University
   * Researched gliding in bio-inspired robotic birds
   
@@ -32,8 +32,8 @@ redirect_from:
   * Researched and synthesized information to find new potential programs related to innovation and leadership
   * Independently worked on a variety of research and writing projects with dynamic goals
 
-#Skills
-======
+Skills
+---
 * Programming
   * Python (advanced)
   * C (proficient)
