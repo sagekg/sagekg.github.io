@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Physics, Grinnell College
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Student Researcher, Stanford University
+  * Researched gliding in bio-inspired robotic birds
   
+* Fall 2018 - Present: Maker Lab Manager, Grinnell College
+  * Supervised a team of 7 students to monitor and manage a multifaceted makerspace
+  * Implemented processes and procedures to ensure safety and track usage of the space
+  * Maintained a diverse set of digital and power tools including 3D printers and laser cutters
+
+* Summer 2018: Student Researcher, Oregon State University
+  * Researched robotic navigation using machine learning methods
+  
+* Summer 2017 - Present: Event Liaison and Research Assistant, Grinnell College
+  * Led teams to organize events and analyzed, prioritized, and delegated tasks to run such events
+  * Problem-solved and adapted to quickly-changing issues and conditions at events
+  * Researched and synthesized information to find new potential programs related to innovation and leadership
+  * Independently worked on a variety of research and writing projects with dynamic goals
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming
+  * Python (advanced)
+  * C (proficient)
+  * Java (proficient)
+  * Maple (basic)
+* Fabrication
+  * 3D Printing (advanced)
+  * Machining & Metalworking (proficient)
+  * Woodworking (proficient)
+* Design
+  * Autodesk Inventor and Fusion 360 (advanced)
+  * Solidworks (proficient)
+  * CorelDraw (proficient)
+  * Adobe Illustrator (basic)
