@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Sage Kaplan-Goland's home on the web!
+I'm a physics major at Grinnell College and I'm interested in the overlaps between engineering and social justice. 
 
+Currently I'm an intern at Stanford University in the [Lentink Lab](http://lentinklab.stanford.edu/welcome/biological_inspiration), where I'm working on gliding robots based on birds.
